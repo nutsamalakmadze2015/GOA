@@ -66,5 +66,5 @@ for i in range(5):
 
     food_list.insert(index, food)
 
-# დაბეჭდვა
+
 print("ფინალური სია:", food_list)
