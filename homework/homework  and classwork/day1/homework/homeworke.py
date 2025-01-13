@@ -4,7 +4,7 @@ print("hi")
 name ="nuca"
 
 
-print( "hi my name is nuca i am from batumi i am 9 years ol my hight is 140")
+print( "hi my name is nuca i am from batumi i am 9 years old my hight is 140")
 
 password = "nuca1234"
 print("pasword==nuca1234")

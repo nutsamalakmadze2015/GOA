@@ -8,14 +8,14 @@ else:
 
 
 
-favorit_namber = int(input("pleas enter your favorit namber: "))
+favorit_number = int(input("pleas enter your favorit namber: "))
 
-favorit_namber1 = 12
+favorit_number1 = 12
 
-if favorit_namber == favorit_namber1:
+if favorit_number == favorit_number1:
     print("perfect")
 
-elif favorit_namber1 < favorit_namber:
+elif favorit_number1 < favorit_number:
     print("more")
 
 else:
